@@ -11,6 +11,6 @@ AI & Data Engineering student at **EMSI Rabat**, looking for a **6-month PFE int
 
 ## Skills
 
-Python · Machine Learning · Computer Vision · LLMs & RAG · PySpark · MLOps (MLflow) · Airflow · SQL
+Python · Machine Learning · Computer Vision · LLMs & RAG · PySpark · MLOps (MLflow/orange/KNIME) · Airflow · SQL
 
 📫 yassinechaymae287@gmail.com ·(https://www.linkedin.com/in/chaymae-yassine-18983b280/)
