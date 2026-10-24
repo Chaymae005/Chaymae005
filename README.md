@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Chaymae 👋
 
-<!--
-**Chaymae005/Chaymae005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Data Engineering student at **EMSI Rabat**, looking for a **6-month PFE internship starting Feb/Mar 2027**.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Nomad](link)**: travel platform with a RAG + tool-calling agent and two recommendation systems (Python, FastAPI, Gemini, Chroma, React)
+- **[Morocco Weather Medallion Pipeline](link)**: Bronze/Silver/Gold ETL that ranks Moroccan cities by weather quality (Airflow, MinIO, Power BI)
+- **[Fake News Detector](link)**: multi-agent scoring of articles by style, facts and source credibility (Transformers, Streamlit, n8n)
+- **[Facial Emotion Recognition](link)**: feature extraction with VGG16, AlexNet and ResNet50, classified by SVM and Decision Tree
+
+## Skills
+
+Python · Machine Learning · Computer Vision · LLMs & RAG · PySpark · MLOps (MLflow) · Airflow · SQL
+
+📫 yassinechaymae287@gmail.com ·(https://www.linkedin.com/in/chaymae-yassine-18983b280/)
